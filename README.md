@@ -14,13 +14,13 @@
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Steps and Prerequisites</h2>
 
-- Enable Internet Information Services  
+- Enable Internet Information Services (IIS)  
 - Install PHP Manager
 - Install MYSQL
-- Item 4
-- Item 5
+- Register PHP from within IIS
+- Install OS-Ticket
 
  
  <img src=https://i.imgur.com/fgP5riF.png/>
@@ -29,7 +29,18 @@
 
  <img src=https://i.imgur.com/N6HsCyC.png/>
  
- PHP Manager was then downloaded and installed.
+ PHP Manager was then downloaded and installed. IT allows for the installation of PHP from with IIS, Configuration of various PHP settings and to Enable or disable PHP extensions for this lab
  
   <img src=https://i.imgur.com/U0Hm13C.png/>
+     
   MY SQL server was download and installed. MY SQL is a database management system used for storing and manipulating data. In this case it is use to store information on clients, agents, tickets just to name a few.
+
+ <img src=https://i.imgur.com/zBV2nmE.png/>
+ 
+ PHP was then registered from within IIS. OS Ticket is now ready to be installed.
+ 
+<img src=https://i.imgur.com/upKXohr.png/>
+
+OS Ticket was then downloaded and extensions; php_imap.dll, php_intl.dll and php_opcache.dll were enabled in Internet Information Services manager to have OS Ticket to fully operating.
+
+<img src=https://i.imgur.com/xWxJoIo.png/>
