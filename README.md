@@ -22,7 +22,7 @@
 - Register PHP from within IIS
 - Install OS-Ticket
 - Install Heidi SQL
-- 
+
 
  All labs in my portfolio are created in Microsoft Azure. 
  
