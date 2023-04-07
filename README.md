@@ -23,3 +23,5 @@
 - Item 5
  
  <img src=https://i.imgur.com/IAALKiI.png/>
+ 
+ All labs in my portfolio are created in Microsoft Azure. The picture above displays the installation of Internet Information Services and CGI. CGI enables the installation of PHP Manager which is a back end web programming language to allow OS Ticket to run efficiently.
