@@ -21,6 +21,7 @@
 - Install MYSQL
 - Register PHP from within IIS
 - Install OS-Ticket
+- Install Heidi SQL
 
  
  <img src=https://i.imgur.com/fgP5riF.png/>
@@ -29,7 +30,7 @@
 
  <img src=https://i.imgur.com/N6HsCyC.png/>
  
- PHP Manager was then downloaded and installed. IT allows for the installation of PHP from with IIS, Configuration of various PHP settings and to Enable or disable PHP extensions for this lab
+ PHP Manager was then downloaded and installed. It allows for the installation of PHP from with IIS, Configuration of various PHP settings and to Enable or disable PHP extensions for this lab
  
   <img src=https://i.imgur.com/U0Hm13C.png/>
      
@@ -43,4 +44,10 @@
 
 OS Ticket was then downloaded and extensions; php_imap.dll, php_intl.dll and php_opcache.dll were enabled in Internet Information Services manager to have OS Ticket to fully operating.
 
+<img src=https://i.imgur.com/od85aKB.png/>
+
+Heidi SQL was download and Installed. It allows us to connect to the MYSQL server and setup a database that OS Ticket is going to use.
+
 <img src=https://i.imgur.com/xWxJoIo.png/>
+
+The image above shows the successfull installation of OS-Ticket.
