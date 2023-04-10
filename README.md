@@ -53,7 +53,7 @@ OS Ticket was then downloaded and extensions; php_imap.dll, php_intl.dll and php
 
 <img src=https://i.imgur.com/od85aKB.png/>
 
-Heidi SQL was download and Installed. It allows us to connect to the MYSQL server and setup a database that OS Ticket is going to use.
+Heidi SQL was downloaded and Installed. It allows to connect to the MYSQL server and setup a database that OS Ticket is going to use.
 
 <img src=https://i.imgur.com/xWxJoIo.png/>
 
