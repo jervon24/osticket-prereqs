@@ -4,6 +4,8 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
+This project outlines the installation of the prerequisities required to use OsTicketing system.
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
@@ -57,4 +59,4 @@ Heidi SQL was downloaded and Installed. It allows to connect to the MYSQL server
 
 <img src=https://i.imgur.com/xWxJoIo.png/>
 
-The image above shows the successfull installation of OS-Ticket.
+The image above shows the successfull installation of OS-Ticket after all of the required programs were downloaded and installed. 
