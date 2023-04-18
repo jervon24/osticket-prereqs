@@ -31,7 +31,7 @@ This project outlines the installation of the prerequisities required to use OsT
 
  <img src=https://i.imgur.com/fgP5riF.png/>
  
- The picture above displays the installation of Internet Information Services and CGI. CGI enables the installation of PHP Manager which is a back end web programming language to allow OS Ticket to run efficiently.
+ First I logged into windows 10 virtual machine.The picture above displays the installation of Internet Information Services and CGI. CGI enables the installation of PHP Manager which is a back end web programming language to allow OS Ticket to run efficiently.
 
 
  <img src=https://i.imgur.com/N6HsCyC.png/>
